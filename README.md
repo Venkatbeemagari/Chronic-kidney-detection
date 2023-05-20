@@ -9,7 +9,7 @@ $ pip install -r requirements.txt
 2. To run application
 $ python server.py
 
-3. Open browser type URL localhost:5000
+3. Open browser type URL localhost:8000
 
 4. To access stored results Use creadentials 
    Username : admin
